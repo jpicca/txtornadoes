@@ -9,3 +9,9 @@ The code utilizes d3.js to read both the tornado data and geographic topojson da
 
 ---
 ### Examples
+
+##### Full map view of all tornadoes
+<img src='./examples/fullscreen.png'>
+
+##### Zoomed in for a particular tornado
+<img src='./examples/zoom.png'>
