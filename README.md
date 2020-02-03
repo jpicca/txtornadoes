@@ -1,0 +1,11 @@
+# 1950-2018 Texas Tornadoes
+
+This repo contains an html/js file to visualize a dataset of nearly 70 years of Texas tornado data. 
+
+---
+### Visualization
+
+The code utilizes d3.js to read both the tornado data and geographic topojson data to plot a map with historic tornado tracks from 1950 through 2018. Additionally, it adds a few event listeners to the svg elements such that tornado startpoints can be clicked for further information.
+
+---
+### Examples
